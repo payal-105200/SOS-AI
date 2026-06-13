@@ -1,0 +1,8 @@
+streamlit>=1.37.0
+pandas
+requests
+pydeck
+geopy
+streamlit-js-eval
+twilio
+google-generativeai
